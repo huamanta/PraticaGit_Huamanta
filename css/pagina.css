@@ -1,0 +1,14 @@
+body{{}
+    margin: auto;
+    border: 10 px;
+    background: red;
+}
+p{
+    text-align: center;
+    color: aqua;
+}
+
+img{
+width: 50%;
+    height: auto;
+}
