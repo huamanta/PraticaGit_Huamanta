@@ -36,6 +36,14 @@ section{
     font-size: 20px;
 }
 
+.texto p{
+    width: 600px;
+    text-align: center;
+    margin: 20px;
+    color: cornflowerblue;
+    height: 200px;
+}
+
 @media (min-width: 768px){
     footer .contenedor{
         justify-content: space-between;
