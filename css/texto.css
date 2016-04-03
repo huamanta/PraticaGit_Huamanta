@@ -1,0 +1,15 @@
+
+#image img{
+    text-align: center;
+    width:  600px;
+    margin: 20px;
+    height: 200px;
+    float:right;
+    align-content: flex-start;
+}
+
+#image p{
+    text-align: right;
+    color: forestgreen;
+    width: 85%;
+}
