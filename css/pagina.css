@@ -1,5 +1,5 @@
 #banner{
-    margin-top: 50px;
+    margin-top: 20px;
 }
 
 #banner img{
@@ -11,25 +11,27 @@
     position: absolute;
     top: 20%;
     left: 50%;
-    transform: translateX(-50%) translateY(-50%);
-    color: #fff;
+    transform: translateX(-120%) translateY(-50%);
+    color: yellow;
 }
 
-#banner h2{
+#banner h1{
     font-size: 28px;
 }
 #banner a{
     display: block;
     width: 100px;
-    color: #fff;
-    text-decoration: none;
+    color: red;
+    text-decoration:none;
     padding: 7px;
     margin-top: 10px;
-    border: 3px  solid #fff;
+    border: 3px  solid black;
+    border-radius: 20px;
+    font-size: 20px;
 }
 
 #banner a: hover{
-    background: rgba(51,51,51,0.5);
+    background: rgba(51,51,51,0);
 }
 
 footer p{
@@ -37,3 +39,14 @@ footer p{
     color: blue;
 }
 
+footer {
+    background: gray;
+}
+
+
+@media (min-width:1024){
+    #banner img{
+        margin-top: -200px;
+    }
+
+}
