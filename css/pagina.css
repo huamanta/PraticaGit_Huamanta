@@ -1,3 +1,7 @@
+body{
+    background: grey;
+}
+
 #banner{
     margin-top: 50px;
 }
@@ -31,7 +35,7 @@
 }
 
 footer{
-    background: grey;
+    background: white;
 }
 
 footer p{
