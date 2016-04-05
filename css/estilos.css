@@ -19,9 +19,12 @@ header{
     z-index: 100;
 }
 
-.contenedor{
-    width: 98%;
+.contmenu{
+    width: 74%;
     margin: auto;
+}
+header .contmenu{
+    display: table;
 }
 h1{
     float: left;
@@ -50,7 +53,7 @@ section{
 }
 
 @media (min-width: 768px){
-    footer .contenedor{
+    footer .contmenu{
         justify-content: space-between;
     }
 }
@@ -60,3 +63,6 @@ section{
         width: 1000px;
     }
 }
+
+
+
