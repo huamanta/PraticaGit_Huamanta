@@ -1,0 +1,14 @@
+.comentario{
+    margin: 20px;
+}
+
+.comentario p{
+    width: 800px;
+    height: auto;
+}
+
+.comentario h2{
+    text-align: center;
+    width: 800px;
+    height: auto;
+}
