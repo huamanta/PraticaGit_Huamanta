@@ -27,6 +27,7 @@
     width: 200px;
     color: blue;
     border: 7px solid blue;
+    float: center;
 }
 
 .slider img{
