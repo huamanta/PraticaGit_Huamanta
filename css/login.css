@@ -4,7 +4,26 @@
     border-radius: 20px;
 }
 
-input {
+
+.login h3{
+    text-align: center;
+    width: 400px;
+    height: 40px;
+    color: blue;
+}
+
+.login h4{
+    text-align: center;
+    width: 400px;
+    height: 40px;
+    color: red;
+}
+
+.login label{
+    color: blue;
+}
+
+.login input {
     display: block;
     padding: 6px;
     width: 80%;
@@ -14,3 +33,15 @@ input {
 }
 
 
+
+.login input[type="submit"] {
+    background: linear-gradient(red,#FF8940);
+    border:5px;
+     width: 100px;
+    opacity: 0.8;
+    cursor: pointer;
+    border-radius: 20px;
+    margin-bottom: 10px;
+    margin:auto;
+    float: left;
+}
