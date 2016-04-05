@@ -2,6 +2,7 @@
     width: 500px;
     float:right;
     border-radius: 20px;
+    background: grey;
 }
 
 
@@ -44,4 +45,12 @@
     margin-bottom: 10px;
     margin:auto;
     float: left;
+}
+
+input[type="submit"]:hover {
+    opacity: 1;
+}
+
+input[type="submit"]:active {
+    transform: scale(0.95);
 }
