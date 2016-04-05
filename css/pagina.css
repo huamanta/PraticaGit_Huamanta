@@ -35,7 +35,8 @@ body{
 }
 
 footer{
-    background: white;
+    background: grey;
+    height: 50px;
 }
 
 footer p{
