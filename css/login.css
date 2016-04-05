@@ -2,3 +2,17 @@
     float: right;
     width: 600px;
 }
+
+.login h3,h4{
+    text-align: center;
+    color: cornsilk;
+}
+
+
+.login input{
+    text-align: center;
+    color: red;
+    border-radius: 20px;
+    width: 50%;
+    float: right;
+}
