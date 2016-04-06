@@ -24,17 +24,21 @@
 }
 
 .slider p{
-    width: 200px;
-    color: black;
-    border: 3px solid blue;
+    width: 250px;
+    text-align: center;
+    color: ;
+    border: 3px solid red;
     float: center;
+    top: 20%;
+    left: 50%;
+    border-radius: 5px;
 }
 
 .slider img{
     width: 100%;
     height: 180px;
     border-radius: 20%;
-    border: 7px solid #fff;
+    border: 7px solid grey;
 
 
 }
