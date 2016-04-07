@@ -37,6 +37,9 @@ body{
 footer{
     background: grey;
     height: 50px;
+    margin-top: inherit;
+    margin-right: 40px;
+    margin-left: 60px;
 }
 
 footer p{
