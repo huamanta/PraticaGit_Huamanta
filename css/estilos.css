@@ -22,9 +22,12 @@ header{
 .contmenu{
     width: 74%;
     margin: auto;
+    margin-right: 50px;
+    margin-left: 175px;
 }
 header .contmenu{
     display: table;
+    width: 1120px;
 }
 h1{
     float: left;
